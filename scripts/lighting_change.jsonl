@@ -1,0 +1,1 @@
+{"name": "lighting_change", "prompt_path": "../prompts/prompt_lighting.txt", "video_path": "../assets/wave.mp4", "guidance": 3, "edge": {"control_weight": 1.0, "control_path": "../assets/edge.mp4"}, "vis": {"control_weight": 0.2}}

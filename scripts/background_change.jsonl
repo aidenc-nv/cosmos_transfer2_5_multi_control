@@ -1,0 +1,1 @@
+{"name": "background_change", "prompt_path": "../prompts/prompt_background.txt", "video_path": "../assets/wave.mp4", "guidance": 3, "edge": {"control_weight": 1.0, "control_path": "../assets/filtered_edge.mp4"}, "seg": {"control_weight": 0.4, "control_path": "../assets/seg.mp4", "mask_path": "../assets/reverse_mask.mp4"}, "vis": {"control_weight": 0.1}}
