@@ -1,0 +1,1 @@
+{"name": "temp", "prompt_path": "background_change.txt", "video_path": "pan_video.mp4", "guidance": 3, "edge": {"control_weight": 1.0, "control_path": "edge_output.mp4"}, "vis": {"control_weight": 0.8, "control_path": "output.mp4", "mask_path": "sam2_pan_reverse_mask.mp4"}}
